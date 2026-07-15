@@ -1,0 +1,5 @@
+pyautogui
+requests
+pillow
+psutil
+beautifulsoup4
